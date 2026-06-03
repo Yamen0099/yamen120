@@ -1,0 +1,19 @@
+{
+  "name": "e___h12",
+  "version": "1.0.0",
+  "description": "Advanced Cybersecurity URL Analysis Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-rate-limit": "^7.1.4",
+    "helmet": "^7.1.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "axios": "^1.6.2",
+    "morgan": "^1.10.0"
+  }
+}
